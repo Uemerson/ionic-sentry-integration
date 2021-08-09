@@ -1,5 +1,7 @@
 {
   "name": "sentry-integration",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
